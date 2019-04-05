@@ -1,0 +1,26 @@
+{
+  "name": "metapool",
+  "version": "0.0.1",
+  "description": "A meta-transaciton relay system based on a approve and EIP712 release model.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "tape src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilentCicero/metapool.git"
+  },
+  "keywords": [
+    "meta",
+    "transaction",
+    "ethereum",
+    "solidity",
+    "eip712"
+  ],
+  "author": "Nick Dodson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SilentCicero/metapool/issues"
+  },
+  "homepage": "https://github.com/SilentCicero/metapool#readme"
+}
